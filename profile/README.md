@@ -2,7 +2,10 @@
 
 This is where you will find most of the repositories related with [Shlink](https://shlink.io).
 
-If you want to know more, take a look at the project [documentation](https://shlink.io/documentation).
+Useful information:
+
+* [Full documentation](https://shlink.io/documentation).
+* [Work in progress](https://github.com/orgs/shlinkio/projects/2/views/4)
 
 <!--
 
