@@ -7,6 +7,12 @@ Useful information:
 * [Full documentation](https://shlink.io/documentation).
 * [Work in progress](https://github.com/orgs/shlinkio/projects/2/views/4)
 
+Social networks:
+
+[![Mastodon](https://img.shields.io/static/v1?label=&message=Mastodon&color=6364FF&logo=mastodon&style=for-the-badge&logoColor=white)](https://fosstodon.org/@shlinkio)
+[![Bluesky](https://img.shields.io/static/v1?label=&message=Bluesky&color=0285FF&logo=bluesky&style=for-the-badge&logoColor=white)](https://bsky.app/profile/shlinkio.bsky.social)
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20%28X%29&color=000000&logo=x&style=for-the-badge&logoColor=white)](https://twitter.com/shlinkio)
+
 <!--
 
 **Here are some ideas to get you started:**
