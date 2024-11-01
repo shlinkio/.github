@@ -10,7 +10,7 @@ Useful information:
 Social networks:
 
 [![Mastodon](https://img.shields.io/static/v1?label=&message=Mastodon&color=6364FF&logo=mastodon&style=for-the-badge&logoColor=white)](https://fosstodon.org/@shlinkio)
-[![Bluesky](https://img.shields.io/static/v1?label=&message=Bluesky&color=0285FF&logo=bluesky&style=for-the-badge&logoColor=white)](https://bsky.app/profile/shlinkio.bsky.social)
+[![Bluesky](https://img.shields.io/static/v1?label=&message=Bluesky&color=0285FF&logo=bluesky&style=for-the-badge&logoColor=white)](https://bsky.app/profile/shlink.io)
 <!--
 
 **Here are some ideas to get you started:**
