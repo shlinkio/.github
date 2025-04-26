@@ -4,7 +4,7 @@ This is where you will find most of the repositories related with [Shlink](https
 
 Useful information:
 
-* [Full documentation](https://shlink.io/documentation).
+* [Full documentation](https://shlink.io/documentation)
 * [Work in progress](https://github.com/orgs/shlinkio/projects/2/views/4)
 
 Social networks:
