@@ -6,6 +6,7 @@ Useful information:
 
 * [Full documentation](https://shlink.io/documentation)
 * [Work in progress](https://github.com/orgs/shlinkio/projects/2/views/4)
+* [Code of conduct](https://github.com/shlinkio/.github/blob/main/CODE_OF_CONDUCT.md)
 
 Social networks:
 
